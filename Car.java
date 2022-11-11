@@ -96,4 +96,5 @@ public class Car {
 		return other.color.equalsIgnoreCase(this.color) && other.brand.equalsIgnoreCase(this.brand)
 				/*&& other.cylinders == this.cylinders*/ && other.numberOfWheels == this.numberOfWheels;
 	}
+//Hello
 }
